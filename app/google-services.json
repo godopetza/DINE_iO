@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770110112953",
+    "project_id": "dineio",
+    "storage_bucket": "dineio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770110112953:android:1a181cfe8716d57539c768",
+        "android_client_info": {
+          "package_name": "com.demo.foodorderanddeliveryappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770110112953-vmlglili6dhdq43257qrpf3p4qn1hsdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3U4oKf249rOY2Pyt9tP7Id-zacwzZdi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770110112953-vmlglili6dhdq43257qrpf3p4qn1hsdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

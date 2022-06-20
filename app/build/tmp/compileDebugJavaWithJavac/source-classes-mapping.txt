@@ -1,0 +1,26 @@
+com/demo/DINEio/databinding/ActivityRegistrationBinding.java
+ com.demo.DINEio.databinding.ActivityRegistrationBinding
+com/demo/DINEio/BuildConfig.java
+ com.demo.DINEio.BuildConfig
+com/demo/DINEio/databinding/RecyclerRestautantListRowBinding.java
+ com.demo.DINEio.databinding.RecyclerRestautantListRowBinding
+com/demo/DINEio/databinding/ForgetpasswordBinding.java
+ com.demo.DINEio.databinding.ForgetpasswordBinding
+com/demo/DINEio/databinding/ActivitySplashBinding.java
+ com.demo.DINEio.databinding.ActivitySplashBinding
+com/demo/DINEio/databinding/ActivityRestaurantMenuBinding.java
+ com.demo.DINEio.databinding.ActivityRestaurantMenuBinding
+com/demo/DINEio/databinding/PlaceyourorderListRowBinding.java
+ com.demo.DINEio.databinding.PlaceyourorderListRowBinding
+com/demo/DINEio/databinding/ActivityLoginBinding.java
+ com.demo.DINEio.databinding.ActivityLoginBinding
+com/demo/DINEio/databinding/ActivityMainBinding.java
+ com.demo.DINEio.databinding.ActivityMainBinding
+com/demo/DINEio/databinding/MenuListRowBinding.java
+ com.demo.DINEio.databinding.MenuListRowBinding
+com/demo/DINEio/databinding/ActivitySuccessOrderBinding.java
+ com.demo.DINEio.databinding.ActivitySuccessOrderBinding
+com/demo/DINEio/databinding/ActivityPlaceYourOrderBinding.java
+ com.demo.DINEio.databinding.ActivityPlaceYourOrderBinding
+com/demo/DINEio/databinding/ActivityProfileBinding.java
+ com.demo.DINEio.databinding.ActivityProfileBinding
