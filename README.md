@@ -1,4 +1,4 @@
-## Welcome to the Social Anxiety Food Ordering App
+## Welcome to the Social Anxiety Food Ordering App (DineIO)
 
 Are you tired of feeling anxious or self-conscious when ordering food at restaurants due to your social anxiety? Our app is here to help! 
 
