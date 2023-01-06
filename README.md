@@ -25,3 +25,9 @@ Our app uses Firebase as a backend to securely handle your orders and payments, 
 Click the link below to view the app demo:
 
 [DINEIO App Demo](https://youtu.be/VAygzYBw3O4)
+
+### APK installation file
+
+Click the link below to view the app demo:
+
+[DINEIO App APK](https://drive.google.com/file/d/11G9H5HRxM53CkfoWqUbGA5X2r0WMN6Pq/view?usp=sharing)
